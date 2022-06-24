@@ -26,7 +26,13 @@
 
 
 
-int main(void)
+
+
+
+
+
+
+int main()
 {
     GLFWwindow* window;
 
