@@ -26,12 +26,6 @@
 
 
 
-
-
-
-
-
-
 int main()
 {
     GLFWwindow* window;
